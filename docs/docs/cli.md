@@ -503,6 +503,7 @@ poetry export -f requirements.txt --output requirements.txt
 * `--extras (-E)`: Extra sets of dependencies to include.
 * `--without-hashes`: Exclude hashes from the exported file.
 * `--with-credentials`: Include credentials for extra indices.
+* `--without-repositories`: Exclude extra indices completely.
 
 ## env
 
